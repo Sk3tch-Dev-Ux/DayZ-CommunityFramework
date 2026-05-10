@@ -1,0 +1,11 @@
+name        = "Campfire Heal";
+picture     = "";
+logo        = "";
+logoSmall   = "";
+logoOver    = "";
+tooltip     = "Heal when near a burning fireplace";
+overview    = "Players within range of a burning fireplace get a small health and blood regeneration tick. Built on Community Framework.";
+action      = "https://github.com/Arkensor/DayZ-CommunityFramework";
+author      = "Kurt";
+authorID    = "0";
+version     = "1.0.0";
